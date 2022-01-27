@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DB_csahrp", "DB_csahrp\DB_csahrp.csproj", "{A3527217-D8FE-4904-A070-6DD9471DE2FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3527217-D8FE-4904-A070-6DD9471DE2FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3527217-D8FE-4904-A070-6DD9471DE2FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3527217-D8FE-4904-A070-6DD9471DE2FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3527217-D8FE-4904-A070-6DD9471DE2FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4725AA0E-F0D1-4C1D-98DE-B7B6B63D637A}
+	EndGlobalSection
+EndGlobal
